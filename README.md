@@ -22,5 +22,9 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 
-
+# Работы
+| Название  | Описание | 
+| ------------- | ------------- |
+| Макросы / VBA  | Разработка модуля ИС “Расчёт банковского вклада” в Excel | 
+| Обучение нейросети  | Распознавание рукописных цифр из набора данных MNIST с помощью Kera  |
 
