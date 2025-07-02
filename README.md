@@ -1,27 +1,93 @@
-# 👋 Привет! Меня зовут Ирина Голубкова
-- 💻 У меня отличные организаторские навыки, высокий уровень ответственности и коммуникации, умение найти подход к разным типам людей. Управлять, делегировать и распределять - это про меня. 
-- 👀 Я начинающий аналитик и fronted-разработчик. 
-- 😄 Технологии с которыми я работала: Excel (включая VBA),  написаное запросов на SQL, опыт работы с СУБД MS SQL Server, Google-инструменты, Python (pandas, numpy, matplotlib), R, ML, имею опыт работы с BI системами(Power BI, Pix BI, Visiology), моделировала бизнес-процессы( Business Studio, Visio, ELMA), знакома с нотацией BPMN, UML, занималась разработкой информационной системы с помощью 1С: Предприятие, написание технической документации, разработка архитектуры предприятий в ArchiMate, работа с ORACLE. Хорошо разбираюсь в CSS и HTML, базовые знания JavaScript. Хорошо разбираюсь в основных понятиях математической статистики и теории вероятности; знакома с дисперсионным, регрессионным и кластерным анализом. 
-- ⚡ Очень ответственная, могу оптимально распределять своё время и время для достижения целей, обеспечивая при этом высокую производительность и эффективность.
+# 👋 Привет! Добро пожаловать в мой GitHub
+
+Я — начинающий **аналитик данных** и **frontend-разработчик** с сильными организаторскими навыками, вниманием к деталям и стремлением к постоянному развитию.
+
+---
+
+## 💼 Описание
+
+Умею эффективно управлять задачами, работать в команде и адаптироваться к новым условиям. Обладаю широким стеком знаний и навыков в области аналитики, разработки и моделирования бизнес-процессов.
+
+---
+
+## 🛠️ Навыки и технологии
+
+### 📊 Анализ данных и BI:
+- **Excel** (включая **VBA**)
+- **SQL** (написание запросов, работа с **MS SQL Server**, **Oracle**)
+- **Python**: `pandas`, `numpy`, `matplotlib`
+- **R**, основы **Machine Learning**
+- **BI-системы**: Power BI, Pix BI, Visiology
+
+### 🧠 Статистика и анализ:
+- Теория вероятностей и математическая статистика
+- Дисперсионный, регрессионный и кластерный анализ
+
+### 🖥️ Разработка:
+- **HTML**, **CSS** (уверенные знания)
+- **JavaScript** (базовые знания)
+- Опыт разработки в **1С: Предприятие**
+
+### 🧩 Моделирование и документация:
+- Моделирование бизнес-процессов: Business Studio, Visio, ELMA
+- Нотации: **BPMN**, **UML**
+- Архитектура предприятия: **ArchiMate**
+- Написание технической документации
+
+---
+
+## 💡 Личные качества
+
+- Ответственность и самоорганизация  
+- Умение управлять временем и расставлять приоритеты  
+- Гибкость в коммуникации и командной работе  
+- Ориентированность на результат и развитие
+
+---
+
+## 📫 Контакты
+
+📧 Email: *укажите свой email здесь*  
+🌐 LinkedIn / Telegram / др.: *добавьте ссылки при необходимости*
+
+---
+
+Спасибо, что заглянули! 😊
 
 # Контакты
 <a href="https://t.me/ggolubkovaa">Telegram</a>
 
 <a href="mailto:golubkova_irina123@mail.ru">Почта</a>
-# 💻 Стек технологий
-- Python(pandas, NumPy, matplotlib, SciPy), R, SQL, Excel(VBA)
-- Power BI, Jasp, Orange, Loginom, Visiolagy, PIX BI
-- 1С: Предприятие, Visual Studio, Buisness Studio 
-- CSS, HTML и JavaScript
   
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+### 📊 Анализ данных и BI:
+
+![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white)
+
+### 📈 Машинное обучение и статистика:
+
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?logo=plotly&logoColor=white)
+
+### 🧩 Моделирование и документация:
+
+![Visio](https://img.shields.io/badge/-Visio-3955A3?logo=microsoft&logoColor=white)
+![UML](https://img.shields.io/badge/-UML-blueviolet)
+![BPMN](https://img.shields.io/badge/-BPMN-007396)
+![ArchiMate](https://img.shields.io/badge/-ArchiMate-4B4B4B)
+
+### 🖥️ Frontend и системы:
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![1C](https://img.shields.io/badge/-1С:%20Предприятие-FFDD00?logo=undefined&logoColor=black)
+
 
 # Работы
 | Название  | Описание | 
